@@ -1,0 +1,4 @@
+Scenrio 4: Few Days Into Sprint 1 After Devloper_2 completes 'Feature_4' 
+Status of Branches :
+	A1 = Feature Branch 'Feature_1' = D + Feature_1 + E (already executed )
+	B1 = Feature Branch 'Feature_4' = D + Feature_4 + E (will executed after creating push request)
