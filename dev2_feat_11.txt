@@ -8,7 +8,7 @@ Scenrio 9: Few days into Sprint 2 when Developer_2 completes Feature_13
 
 	A4 = Feature Branch 'Feature_10' = D + Feature_10 + E (Already executed in previous commit)	
 	B4 = Feature Branch 'Feature_13' = D + Feature_13 + E (will be executed in current commit of dev2_feature13 branch)		
-Scenrio 10: FEnd of sprint when all developers complete all Features
+Scenrio 10: End of sprint when all developers complete all Features
 
 	A4 = Feature Branch 'Feature_10' = D + Feature_10 + E (Already executed in previous commit)
 	A5 = Feature Branch 'Feature_11' = D + Feature_11 + E (will be executed in current commit of dev2_feature11 branch)
