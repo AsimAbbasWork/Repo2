@@ -1,0 +1,5 @@
+Scenrio 5: End of Sprint 1 After All developers have completed all Features
+	current status of develop branch
+		A1 = Feature Branch 'Feature_1' = D + Feature_1 + E (already executed previously)
+		B1 = Feature Branch 'Feature_4' = D + Feature_4 + E (already executed previously)
+		A2 = Feature Branch 'Feature_2' = D + Feature_2 + E (will be executed after push to remote repository)
