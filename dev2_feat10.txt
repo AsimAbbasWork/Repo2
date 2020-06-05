@@ -1,0 +1,5 @@
+Scenrio 7: Beginning of Sprint 2
+	Current status of previous branch
+		A4 = Feature Branch 'Feature_10' = D + Feature_10
+			Scenrio 8: Few days into Sprint 2 when Developer_1 completes Feature_10
+				A4 = Feature Branch 'Feature_10' = D + Feature_10 + E (will be executed in current commit of dev2_branch10)
